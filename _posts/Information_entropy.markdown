@@ -1,7 +1,7 @@
 ---
-title: 数据压缩与信息熵
+title: "数据压缩与信息熵"
 layout: post
-date: 2018-01-14
+date: 2018-01-14 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
