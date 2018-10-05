@@ -75,11 +75,7 @@ $$\frac{\sum_{i=1}^{n}log_2\frac{1}{p_i}}{n}=\frac{1}{n}log_2\frac{1}{p_1}+\cdot
 
 求每个符号所占用的二进制位的期望
 
-\begin{eqnarray*}
-% \nonumber to remove numbering (before each equation)
-  p_1 log_2\frac{1}{p_1}+\cdots+p_n log_2\frac{1}{p_n} &=& \sum_{i=1}^{n}p_i log_2 \frac{1}{p_i} \\
-  &=& E(log_2\frac{1}{p})
-\end{eqnarray*}
+  $$p_1 log_2\frac{1}{p_1}+\cdots+p_n log_2\frac{1}{p_n} = \sum_{i=1}^{n}p_i log_2 \frac{1}{p_i} =E(log_2\frac{1}{p})$$
 
 
 下面是一个例子。假定有两个文件都包含1024个符号，在ASCII码的情况下，它们的长度是相等的，都是1KB。甲文件的内容50%是a，30%b，20%是c，则平均每个符号要占用1.49 个二进制位。
