@@ -42,7 +42,7 @@ disqus:
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://github.com/skyladder
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,6 +51,7 @@ github: mygithub
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
+douban: https://www.douban.com/people/wangtaocyy/
 email: wangtaocyy@163.com
 
 authors:
