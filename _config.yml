@@ -1,6 +1,6 @@
 # main text of home
 name: Wang Tao
-bio: 科学与艺术最后是殊途同归
+bio: 科学与艺术最后是殊途同归的
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -56,13 +56,13 @@ email: wangtaocyy@163.com
 authors:
     Wang Tao:
         name: Wang Tao
-        bio: 科学与艺术最后是殊途同归
+        bio: 科学与艺术最后是殊途同归的
         external-image: false
         picture: assets/images/IMG_8718.JPG
         #twitter: johndoe
     jamesfoster:
         name: Wang Tao
-        bio: 科学与艺术最后是殊途同归
+        bio: 科学与艺术最后是殊途同归的
         external-image: false
         picture: assets/images/IMG_8718.JPG
         #twitter: jamesfoster
