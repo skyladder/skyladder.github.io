@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>洋洋洒洒能写多少就写多少</p>
+<p>Singing in the Seasons</p>
 
 
 <h2>Skills</h2>
