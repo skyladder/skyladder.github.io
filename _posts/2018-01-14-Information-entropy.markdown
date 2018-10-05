@@ -8,7 +8,7 @@ tag:
 - 信息熵
 star: false
 category: blog
-author: Tao
+author: Wang Tao
 description: 数据压缩与信息熵
 ---
 
