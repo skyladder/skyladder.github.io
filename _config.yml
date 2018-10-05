@@ -12,11 +12,11 @@ picture: assets/images/IMG_8718.JPG
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://skyladder.art
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,8 +34,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+#twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -48,24 +48,24 @@ github: mygithub
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: wangtaocyy@163.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Wang Tao
+        bio: 科学与艺术最后是殊途同归
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
+        picture: assets/images/IMG_8718.JPG
+        #twitter: johndoe
     jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
+        name: Wang Tao
+        bio: 科学与艺术最后是殊途同归
         external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        picture: assets/images/IMG_8718.JPG
+        #twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
