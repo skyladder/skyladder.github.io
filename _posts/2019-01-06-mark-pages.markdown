@@ -14,6 +14,6 @@ description: 神经网络
 
 
 1. 神经网络,流形和拓扑
-本文转自：
-> 1. https://blog.csdn.net/u011196300/article/details/51233277
-> 2. http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
+
+> 1. <https://blog.csdn.net/u011196300/article/details/51233277>
+> 2. >http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/>
